@@ -1,0 +1,4 @@
+distribute==0.6.21
+virtualenv==1.6.4
+virtualenvwrapper==2.8
+wsgiref==0.1.2
